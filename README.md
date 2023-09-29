@@ -1,8 +1,8 @@
 # btcturk_python_api
 Very basic btcturk python api <br>
 When you create an api key, use ipv6 address<br>
-Source:<br>
-<a href="https://docs.btcturk.com/authentication/authentication-v1" target="_blank">
+Source:
+<a href="https://docs.btcturk.com/authentication/authentication-v1" target="_blank"> Btcturk Website </a>
 <br>
 Usage:
 <br>
