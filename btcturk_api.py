@@ -94,14 +94,3 @@ class Btcturk:
         result = requests.post(url=uri, headers=headers, json=params)
         result = result.json()
         return result
-"""
-params1={
-    "quantity": 124,
-    "price": 1.60,
-    "stopPrice": 0,
-    "newOrderClientId": "api_bot",
-    "orderMethod": "limit",
-    "orderType": "buy",
-    "pairSymbol": "DOGETRY"
-    }
-"""
