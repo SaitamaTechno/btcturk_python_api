@@ -6,8 +6,7 @@ https://docs.btcturk.com/authentication/authentication-v1
 <br>
 Usage:
 <br>
-<code>
-#print(tick("BTCUSDT"))
+<code>#print(tick("BTCUSDT"))
 #print(get_balance("TRY"))
 #print(get_open_orders("DOGETRY"))
 #print(submit_order(params1))
