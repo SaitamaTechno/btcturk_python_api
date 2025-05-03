@@ -4,6 +4,9 @@ When you create an api key, use ipv6 address<br>
 Source:
 <a href="https://docs.btcturk.com/authentication/authentication-v1" target="_blank"> Btcturk Website </a>
 <br>
+<a href="https://kripto.btcturk.com/hesap/api-erisimi" target="_blank"> Get Btcturk API Key </a>
+<br>
+
 Usage:
 <br>
 <pre>
